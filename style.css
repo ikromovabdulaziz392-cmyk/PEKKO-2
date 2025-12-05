@@ -1,0 +1,42 @@
+body {
+    background-color: blue;
+}
+ body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    background-color: rgb(31, 31, 202);
+    border: 2px solid black;
+    text-align: center;
+    padding: 1px;
+    border-radius: 8px;
+    margin-bottom: 1px;
+    
+}
+.pekko {
+    height:490px;
+}
+.pekko2 {height: 590px;}
+.pik {
+    color: rgb(255, 217, 0)';
+}
+.content {
+    padding: 210px;
+    margin-bottom: 210px;
+}
+table{
+    border: 2px solid black;
+   
+}
+th{
+    background-color: coral;
+    border: 2px solid black;
+}
+td {
+    border: 2px solid black;
+    padding-left: 110px;
+    padding-right: 110px;
+}
